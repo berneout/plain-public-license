@@ -1,4 +1,6 @@
-# The Plain Open License annotated
+# The Plain Open License
+
+## Annotated License Text
 
     The Plain Open License
 
