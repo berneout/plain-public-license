@@ -8,5 +8,15 @@ The work comes "as is". You don't get any warranty.
 Its developers and owners won't be legally responsible to you for harm
 from the work.
 
+To use this license for software, copy this LICENSE file into the
+project, then create an AUTHORS file like:
+
+    ${Project Name}
+
+    Licensed per https://$domain/en/$version
+
+    Jane Author <jane@$domain>, for SomeCo, Inc.
+    Joe Author <joe@$domain>, independent
+
 Everyone may copy and apply this license to their work, but incomplete
 or changed copies may not be called "The Plain Public License".
